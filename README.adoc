@@ -20,7 +20,7 @@ Github | https://github.com/ldvitushko[ldvitushko]
 === Projects
 '''
 
-==== *Bursar's Electronic Fssistant:*
+==== *Bursar's Electronic Assistant:*
 https://github.com/ldvitushko/Bursar-s_Electronic_Assistant[https://github.com/ldvitushko/Bursar-s_Electronic_Assistant]:::
 Application for warehouse accounting in the enterprise. +
 Programming language: SQL, HTML, JS, CSS, Java; +
