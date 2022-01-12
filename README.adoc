@@ -20,6 +20,12 @@ Github | https://github.com/ldvitushko[ldvitushko]
 === Projects
 '''
 
+==== *Pre-school education analysis New Zealand:*
+https://github.com/ldvitushko/Pre-school_Education_Analysis_New_Zealand[https://github.com/ldvitushko/Pre-school_Education_Analysis_New_Zealand]:::
+Database development, aggregation of data from open sources and analytics of this data. +
+Programming language: SQL; +
+Tools: PostgreSQL, PowerBI.
+
 ==== *Bursar's Electronic Assistant:*
 https://github.com/ldvitushko/Bursar-s_Electronic_Assistant[https://github.com/ldvitushko/Bursar-s_Electronic_Assistant]:::
 Application for warehouse accounting in the enterprise. +
