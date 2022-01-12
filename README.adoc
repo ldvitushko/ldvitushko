@@ -1,0 +1,89 @@
+:doctype: book
+:nofooter:
+
+= Lidziya Vitushka
+
+==== Junion Software Developer
+Location | Minsk, Belarus +
+Gmail | \vitushko.l.d@mail.ru +
+Github | https://github.com/ldvitushko[ldvitushko] 
+
+[#it-skills]
+=== IT Skills
+'''
+==== Software Development:
+*Programming languages:* SQL, Python, C++, Java; +
+*Frameworks:* numpy, pandas, matplotlib; +
+*Tools:* PostgreSQL, DB2, MySQL, Docker, Git.
+
+[#projects]
+=== Projects
+'''
+
+==== *Bursar's Electronic Fssistant:*
+https://github.com/ldvitushko/Bursar-s_Electronic_Assistant[https://github.com/ldvitushko/Bursar-s_Electronic_Assistant]:::
+Application for warehouse accounting in the enterprise. +
+Programming language: SQL, HTML, JS, CSS, Java; +
+Tools: PostgreSQL.
+
+==== *Visualization of the construction of segments:* 
+https://github.com/ldvitushko/Line_Editor[https://github.com/ldvitushko/Line_Editor]:::
+Implementation of segment construction using the integer segment division algorithm, Bresenham's integer algorithm and Wu's algorithm. +
+Programming language: Python; +
+Tools: matplotlib, numpy, tkinter.
+
+==== *Visualization of the algorithm for constructing second-order lines*
+https://github.com/ldvitushko/Second_Order_Line_Editor[https://github.com/ldvitushko/Second_Order_Line_Editor]:::
+Implementation of the brezenhea algorithm for circle generation and ellipse generation algorithm. +
+Programming language: Python; + 
+Tools: matplotlib, numpy, tkinter.
+
+==== *Аn intelligent tour guide in the city of Minsk for OSTIS*
+https://github.com/Historicteam/Knowledge-base.git[https://github.com/Historicteam/Knowledge-base.git]:::
+Development of app extension of the knowledge base for the https://github.com/ostis-dev[OSTIS system] in аn intelligent tour guide in the city of Minsk domain. https://github.com/Historicteam/Knowledge-base/pull/89[Creating a structure for key subsections and their description, creating templates of classes, their attributes and entities]. https://github.com/Historicteam/Knowledge-base/pull/81[Refactoring of the system upon completion]. +
+Tools: https://github.com/ostis-dev[OSTIS], https://github.com/ostis-dev/kbe[KBE], HTML.
+
+==== *A system for syntactically validating formulas in a utterance logic language:* 
+https://github.com/ldvitushko/Syntactically-validating-formulas-in-a-utterance-logic-language[https://github.com/ldvitushko/Syntactically-validating-formulas-in-a-utterance-logic-language]:::
+This system allows you to analyze input strings, perform parsing and form a parsing tree if the string is a formula. +
+Programming language: Python; +
+Tools: nltk, PIL.
+
+==== *Automated natural language dictionary generation system:* 
+https://github.com/ldvitushko/Natural-language-dictionary-generation-system[https://github.com/ldvitushko/Natural-language-dictionary-generation-system]:::
+The system allows you to analyze input texts, produce tokenization by words, to bring the received words into normal form and to form both a dictionary of lexemes and their corresponding word forms, and a dictionary with morphological information for known word forms. +
+Programming language: Python; +
+Tools: pymorphy.
+
+==== *Syntactic Text Analyzer:*
+https://github.com/ldvitushko/Syntactic-Text-Analyzer[https://github.com/ldvitushko/Syntactic-Text-Analyzer]:::
+The system performs automatic syntactic analysis of the natural language text submitted to it for input in an html file in English. +
+Programming language: python; +
+Tools: nltk, PIL.
+
+[#language-skills]
+=== Language Skills
+'''
+*English:* B1; +
+*Belarusian:* Native; +
+*Russian:* Native.
+
+[#work-experience]
+=== Education
+'''
+2022  ~June~:::  
+*Belarusian State University of Informatics and Radioelectronics;* +
+Faculty: Faculty of Information Technologies and Control; +
+Degree:  Artificial Intelligence. +
+2015  ~May~::: 
+*Minsk School 217;* +
+Educational focus: Physics and Mathematics.
+
+[#driving-license]
+=== Driving license
+
+[#interests]
+=== Personal Interests
+'''
+*Hobbies:* +
+sculptural modeling, traveling, painting, self-education, walking, electronics, russian classical literature.
